@@ -2,26 +2,27 @@
 
 ## My Name
 
-Write your name.
+I am Harshavardhan Reddy N
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned about the basics of the Programming and Development.
+I learned about the PRD, LLD and HLD.
+I learned about how to build the logic.
 
 ## Why I Selected Java
 
-Write your reason in your own words.
+I selected Java because I want to build large Applications
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My Career Goal is to become a software Engineer in Product-Based Company.
 
 ## What I Understood Today
 
-Complete these sentences:
 
-Programming means:
+Programming means:Giving Instructions to the machine in a language it can understand.
 
-Java is:
+Java is:Object Oriented Programming Language.
 
-In this track, I will learn:
+In this track, I will learn:How to express the logic using java.
