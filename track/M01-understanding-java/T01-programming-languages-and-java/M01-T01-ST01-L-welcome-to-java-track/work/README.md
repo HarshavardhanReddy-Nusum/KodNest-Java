@@ -2,7 +2,7 @@
 
 ## My Name
 
-I am Harshavardhan Reddy N
+Harshavardhan Reddy N
 
 ## What I Learned in Foundation Month
 
