@@ -5,7 +5,6 @@ public class PlacementEligibility {
         int marks = 80;
         int attendance = 75;
         boolean projectCompleted = true;
-
         boolean marksEligible = marks >= 60;
         boolean attendanceEligible = attendance >= 75;
         boolean academicEligibility = marksEligible && attendanceEligible;
