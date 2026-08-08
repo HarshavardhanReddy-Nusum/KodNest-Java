@@ -20,5 +20,7 @@ public class Input2 {
         System.out.println("Enter your full name: ");
         String fname = sc.nextLine();
         System.out.println("Your name is: " + fname);
+
+        sc.close();
     }
 }
