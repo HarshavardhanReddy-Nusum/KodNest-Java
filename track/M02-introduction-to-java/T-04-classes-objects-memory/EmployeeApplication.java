@@ -19,6 +19,9 @@ public class EmployeeApplication {
 
         System.out.println("e2 id: " + e2.id);
         System.out.println("e2 name: " + e2.name);
+
+        System.out.println(e1 == e2);
+        System.out.println(e1.id == e2.id);
     }
 }
 
